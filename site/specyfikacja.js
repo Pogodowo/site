@@ -96,7 +96,7 @@ Projekt generuje kwoty słowne i ma możliwośc zapisania specyfikacji w formaci
 
 <img id='specyfikacja-img'/>
 <div id='technologies'><img id='python-img'/><img id='django-img'/><img id='js-img'/></div> 
-<a id='receptura-link' target="_blank" href="web-production-c06f.up.railway.app"> Zobacz sam</a>
+<a id='receptura-link' target="_blank" href="https://web-production-c06f.up.railway.app/"> Zobacz sam</a>
 </div>`
 
 class Specyfikacja extends HTMLElement{
